@@ -1,0 +1,7 @@
+C:\DESA\CODIGOS\BlogC#\Saludo\Saludo\Saludo\bin\Debug\Saludo.exe.config
+C:\DESA\CODIGOS\BlogC#\Saludo\Saludo\Saludo\bin\Debug\Saludo.exe
+C:\DESA\CODIGOS\BlogC#\Saludo\Saludo\Saludo\bin\Debug\Saludo.pdb
+C:\DESA\CODIGOS\BlogC#\Saludo\Saludo\Saludo\obj\Debug\Saludo.csprojAssemblyReference.cache
+C:\DESA\CODIGOS\BlogC#\Saludo\Saludo\Saludo\obj\Debug\Saludo.csproj.CoreCompileInputs.cache
+C:\DESA\CODIGOS\BlogC#\Saludo\Saludo\Saludo\obj\Debug\Saludo.exe
+C:\DESA\CODIGOS\BlogC#\Saludo\Saludo\Saludo\obj\Debug\Saludo.pdb
