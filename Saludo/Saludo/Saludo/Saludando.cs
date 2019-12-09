@@ -23,7 +23,7 @@
             Console.WriteLine("\n--------------------------------------------------------------");
             Console.WriteLine("La verdad que \" {0} \" me parece muy interesante. Gracias {1}", cadena, nombre); // Muestra mensaje en pantalla adicionando la cadena pedida.
             Console.WriteLine("Mucho gusto " + nombre + ". Es todo un placer haberte conocido."); // Muestra mensaje.
-            Console.WriteLine("--------------------------------------------------------------");
+            Console.WriteLine("------------------------------------------------------------------");
             Console.ReadKey(); // Espera que se presione una tecla.
         }
     }
