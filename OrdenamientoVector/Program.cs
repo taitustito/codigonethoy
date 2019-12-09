@@ -12,7 +12,7 @@ namespace OrdenamientoVector
         private string[] nombre;
         public void Cargar()
         {
-            nombre = new string[] { "Facundo", "Jose", "Ariel", "Gabriel", "Milagros", "Jesus" };
+            nombre = new string[] { "Facundo", "Jose", "Ariel", "Gabriel", "PEPERONI", "Jesus" };
 
         }
 
